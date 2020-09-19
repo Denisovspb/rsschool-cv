@@ -1,0 +1,28 @@
+html{
+    font-family: 'Roboto', sans-serif;
+    background-color: #000;
+}
+
+.container{
+    max-width: 720px;
+    background-color: #1AC5C0;
+    margin: 0 auto;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.container h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+.container ol{
+    line-height: 30px;
+    text-align: left;
+}
+
+.container img{
+    max-width: 540px;
+    padding-bottom: 20px;
+}
