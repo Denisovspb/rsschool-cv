@@ -1,4 +1,4 @@
-# MY CV
+# Frontend Developer CV
 **1.** **First name:** Daniil, **Last name:** Denisov
 
 **2.** **Contacts:** [Linkedin](https://www.linkedin.com/in/daniil-denisov/), [Twitter](https://twitter.com/den1sovspb), [Facebook](https://www.facebook.com/den1sovspb), [Email](stxg9d@gmail.com)
